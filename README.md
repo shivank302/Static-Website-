@@ -7,7 +7,7 @@ This project is designed to demonstrate frontend development skills with a simpl
 
 ## 🚀 Live Demo
 
-👉https://shivank302.github.io/Static-Website-/ 
+👉 https://shivank302.github.io/Static-Website-/
 
 ---
 
@@ -52,8 +52,8 @@ static-website/
 
 Shivank Ranjan
 
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
+GitHub: https://github.com/shivank302
+LinkedIn: https://www.linkedin.com/in/shivank-ranjan
 
 ⭐ Support
 💡 Made with ❤️ for learning frontend development
